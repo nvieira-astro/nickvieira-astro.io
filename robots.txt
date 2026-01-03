@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: 
+Allow: /index.html
+Allow: /heavyelements.html
+Allow: /multimessenger.html
+Allow: /cv.html
